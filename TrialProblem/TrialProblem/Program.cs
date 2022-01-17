@@ -11,8 +11,9 @@ namespace TrialProblem
         static void Main(string[] args)
         {
             Console.WriteLine("WelCome to C# basic");
-            TypeCasting.defineTypeCast();
+            //TypeCasting.defineTypeCast();
             //DataTypes.operatorOperation();
+            MathAndString.defineMathStrlength();
             Console.ReadKey();
 
         }
